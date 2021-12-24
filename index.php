@@ -176,9 +176,34 @@
         <section class="resume-section" id="projects">
             <div class="resume-section-content">
                 <h2 class="mb-5">Projects</h2>
+                
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="flex-grow-1">
-                        <h3 class="mb-0"><a href="http://amarsinharanjan-com.stackstaging.com/content/12%20Twitter/"
+                        <h3 class="mb-0"><a href="https://github.com/web-advisor/wantECO"
+                                rel="noopener noreferrer" target="_blank">wantECO Project</a></h3>
+                        <div class="subheading mb-3">An online platform where both type of people who wants to be more eco friendly and those who wants to share day to day eco friendly approaches.
+</div>
+                        <p class="mb-5">USED Tech : HTML , CSS , Javascript , jQuery , Ajax , PHP , MySQL , MVC
+                            Framework</p>
+                    </div>
+                    <!-- <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div> -->
+                </div>
+                
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0"><a href="https://github.com/web-advisor/FootballHub"
+                                rel="noopener noreferrer" target="_blank">footballHUB Project</a></h3>
+                        <div class="subheading mb-3">One Place for all Football Fandom needs. Created by a Football Fan . This project uses Bootstrap Theme for Front end and PHP for the backend purposes.</div>
+                        <p class="mb-5">USED Tech : HTML , CSS , Javascript , jQuery , Ajax , PHP , MySQL , MVC
+                            Framework</p>
+                    </div>
+                    <!-- <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div> -->
+                </div>
+                
+                
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0"><a href="https://github.com/web-advisor/WebDProjects/tree/main/12%20Twitter"
                                 rel="noopener noreferrer" target="_blank">Twitter Clone Project</a></h3>
                         <div class="subheading mb-3">Made a Clone of Twitter with it's basic features like : Logging In
                             , Following
@@ -190,7 +215,7 @@
                 </div>
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="flex-grow-1">
-                        <h3 class="mb-0"><a href="http://thefouraces-com.stackstaging.com/" rel="noopener noreferrer"
+                        <h3 class="mb-0"><a href="https://github.com/web-advisor/HackWIE-4_Aces" rel="noopener noreferrer"
                                 target="_blank">NeighbourInNeed Project</a></h3>
                         <div class="subheading mb-3">A Webapp connecting people living in same localities and then
                             matching their
@@ -200,32 +225,12 @@
                     </div>
                     <!-- <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div> -->
                 </div>
+                
+                
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="flex-grow-1">
                         <h3 class="mb-0"><a
-                                href="http://amarsinharanjan-com.stackstaging.com/content/8%20MySQL/Secret%20Diary.php"
-                                rel="noopener noreferrer" target="_blank">Secret Diary Project</a></h3>
-                        <div class="subheading mb-3">A Webapp to write Diary.Basic features like Logging in making pages
-                            available .</div>
-                        <p class="mb-5">USED Tech : HTML , CSS , Javascript , jQuery , Ajax , PHP , MySQL </p>
-                    </div>
-                    <!-- <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div> -->
-                </div>
-                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                    <div class="flex-grow-1">
-                        <h3 class="mb-0"><a
-                                href="http://amarsinharanjan-com.stackstaging.com/content/4%20jQuery/Code%20Player.html"
-                                rel="noopener noreferrer" target="_blank">Code Player Project</a></h3>
-                        <div class="subheading mb-3">Made a platform to perform HTML , CSS , Javascript and View it's
-                            output.</div>
-                        <p class="mb-5">Used Tech : HTML , CSS , Javascript , jQuery , Ajax </p>
-                    </div>
-                    <!-- <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div> -->
-                </div>
-                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                    <div class="flex-grow-1">
-                        <h3 class="mb-0"><a
-                                href="http://amarsinharanjan-com.stackstaging.com/content/9%20API/Weather%20Scraper.php"
+                                href="https://weather-scraper-0.herokuapp.com/"
                                 rel="noopener noreferrer" target="_blank">Weather Scraper Project</a></h3>
                         <div class="subheading mb-3">Made a platform to search for the current weather of any city of
                             the world.</div>
@@ -233,7 +238,7 @@
                     </div>
                     <!-- <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div> -->
                 </div>
-                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+<!--                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="flex-grow-1">
                         <h3 class="mb-0"><a
                                 href="http://amarsinharanjan-com.stackstaging.com/content/3%20JAVASCRIPT/reaction%20tester.html"
@@ -243,8 +248,7 @@
                             on the screen and gives the reaction time of the player.</div>
                         <p class="mb-5">Used Tech : HTML , CSS , Javascript </p>
                     </div>
-                    <!-- <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div> -->
-                </div>
+                </div> -->
             </div>
         </section>
         <hr class="m-0" />
